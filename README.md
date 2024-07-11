@@ -26,7 +26,7 @@ I did not create any of these resources. For specific questions about each one, 
 - [Generative AI](https://www.cloudskillsboost.google/paths/118)
 
 ### Courses
-#### Red Hat
+#### Red Hat (If you work at Red Hat and can access internal training)
 - First log on at: [Red Hat Training](https://training-lms.redhat.com/sso/saml/auth/rhlpint)
 - [Intro to AI](https://training-lms.redhat.com/sso/saml/auth/rhlpint?RelayState=deeplinkoffering%3D57244522)
 - [Role Enablement (Tech Sales/Solution Architects and Adoptions)](https://source.redhat.com/groups/public/field_and_partner_learning/fieldandpartner/role_enablement_space)
