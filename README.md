@@ -26,10 +26,9 @@ I did not create any of these resources. For specific questions about each one, 
 - [Generative AI](https://www.cloudskillsboost.google/paths/118)
 
 ### Courses
-#### Red Hat (If you work at Red Hat and can access internal training)
-- First log on at: [Red Hat Training](https://training-lms.redhat.com/sso/saml/auth/rhlpint)
-- [Intro to AI](https://training-lms.redhat.com/sso/saml/auth/rhlpint?RelayState=deeplinkoffering%3D57244522)
-- [Role Enablement (Tech Sales/Solution Architects and Adoptions)](https://source.redhat.com/groups/public/field_and_partner_learning/fieldandpartner/role_enablement_space)
+#### Red Hat (paid courses)
+- AI 067: [OpenShift AI Technical Overview](https://www.redhat.com/en/services/training/ai067-red-hat-openshift-ai-technical-overview)
+- AI 267: [Developing and Deploying AI/ML Applications on Red Hat OpenShift AI](https://www.redhat.com/en/services/training/developing-and-deploying-aiml-applications-red-hat-openshift-ai-ai267)
 
 #### Free Courses
 - MIT: [Machine Learning with Python: From Linear Models to Deep Learning](https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning?webview=false&campaign=Machine+Learning+with+Python%3A+from+Linear+Models+to+Deep+Learning&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fmitx)
